@@ -8,9 +8,9 @@
 
 ## Tabell
 
-|Header 1|Header 2 |
-|--------|---------|
-| Rad 1  | Rad 2   |
+| Header 1| Header 2 |
+|---------|----------|
+| Rad 1   | Rad 2    |
 
 
 
