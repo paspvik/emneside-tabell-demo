@@ -8,9 +8,10 @@
 
 ## Tabell
 
-| Kolonne 1| Kolonne 2|
-|----------|----------|
-| Rad 1    |          |
+| Kolonne 1| Kolonne 2| Ny kolonne|
+|----------|----------|-----------|
+| Rad 1    |   Rad 1  | Rad 1     |
+| Rad 2    | Rad 2    | Rad 2     |
 
 
 
