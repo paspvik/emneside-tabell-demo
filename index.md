@@ -8,6 +8,9 @@
 
 ## Tabell
 
+| Kolonne 1| Kolonne 2|
+|----------|----------|
+| Rad 1    |          |
 
 
 
